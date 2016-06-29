@@ -1,0 +1,30 @@
+{
+  "name": "diff-map",
+  "version": "1.0.0",
+  "description": "Diff of 2 Maps based on Keys alone",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arupex/diff-map.git"
+  },
+  "keywords": [
+    "diff",
+    "map",
+    "maps",
+    "keys",
+    "key"
+  ],
+  "author": "dirwin517",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/arupex/diff-map/issues"
+  },
+  "homepage": "https://github.com/arupex/diff-map#readme",
+  "devDependencies": {
+    "assert-diff": "^1.0.1",
+    "mocha": "^2.5.3"
+  }
+}
